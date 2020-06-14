@@ -45,8 +45,6 @@
             CurrentRadius: 200,
             //互動視窗內容
             Content: '',
-            //互動視窗控制
-            Show: false
         },
         methods:{
             //初始化執行
